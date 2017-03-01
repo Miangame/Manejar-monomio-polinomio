@@ -1,0 +1,16 @@
+# Nombre del proyecto
+PROJECT_NAME		= Practica_1
+
+# Idioma: español
+OUTPUT_LANGUAJE		= Spanish
+
+
+# Muestra la parte privada
+EXTRACT_PRIVATE		= YES
+
+
+# Muestra los ficheros "c"
+SOURCE_BROWSER		= YES
+
+# No se genera la documentacion en latex
+GENERATE_LATEX		= NO
